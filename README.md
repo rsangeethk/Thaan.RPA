@@ -73,7 +73,9 @@ Executes bots in the installed machine with complete control from Thaan Server. 
 Below specifications are minimum requirement for the applications to function.
 
 **Thaan Studio**  - Windows 7+, .Net Framework 4+
+
 **Thaan Server**  - Windows 7+ / Windows Server 2012+, .Net Core 3+
+
 **Thaan Agent**   - Windows 7+, .Net Framework 4+
 
 
@@ -86,4 +88,5 @@ Documentation to be released along with the Release.
 
 
 ## Let us know your thoughts
-**For Business Proposals/Service requests.** Drop a note to [ra.sangeeth.kannan@gmail.com](mailto:ra.sangeeth.kannan@gmail.com?subject=[Business%20proposal%20/%20Service%20Request]).
+Drop a note to [ra.sangeeth.kannan@gmail.com](mailto:ra.sangeeth.kannan@gmail.com?subject=[Business%20proposal%20/%20Service%20Request]).
+**Looking for Partners from BPM/RPA Service Industry to Collaborate.**
