@@ -90,4 +90,4 @@ Documentation to be released along with the Release.
 ## Let us know your thoughts
 Drop a note to [ra.sangeeth.kannan@gmail.com](mailto:ra.sangeeth.kannan@gmail.com?subject=[Business%20proposal%20/%20Service%20Request]).
 
-**Looking for Partners from BPM Vendors / RPA Service Providers to Collaborate on Launching the Product.**
+**Looking to partner with Existing No-Code / Low-code SaaS platforms who wish to include RPA capability & RPA Service providers who wish to have in-house RPA solution.**
